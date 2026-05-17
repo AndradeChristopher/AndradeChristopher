@@ -4,7 +4,7 @@ $\color{gray}{\text{Ahem...}}$ <i>Welcome to my profile!</i> <img src="https://r
 
 My name is <b><mark>Christopher</mark></b> and I am a <b>Data Analyst</b> and <b>technology hobbyist</b>. 
 ***
-I am currently in my final year at the University of South Florida <img src="https://raw.githubusercontent.com/AndradeChristopher/AndradeChristopher/refs/heads/main/USF.png" width="20" height="20" /> ‎ pursuing a Bachelor's degree in Business Analytics & Information Systems. I look forward to sharing both my previous projects and future endeavors as I continue growing in the fields of analytics, automation, and software development.
+I am currently in my final year at the University of South Florida <img src="https://raw.githubusercontent.com/AndradeChristopher/AndradeChristopher/refs/heads/main/USF.png" width="20" height="20" /> ‎ pursuing a Bachelor's degree in Business Analytics & Information Systems. I look forward to sharing both my previous projects and future endeavors as I continue growing in the fields of analytics, automation, and general process development.
 
 My skill set includes HTML, CSS, JavaScript, Electron, SQL/Server Management Studio, Python, and Microsoft Azure, along with traditional automation techniques and RPA tools. I also enjoy working with data analysis, process optimization, and building practical solutions that improve efficiency and user experience.
 
