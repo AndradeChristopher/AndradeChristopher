@@ -1,4 +1,10 @@
-## Hi there 👋
+###### No way, it is you! <img src="https://raw.githubusercontent.com/AndradeChristopher/AndradeChristopher/refs/heads/main/eyes.gif" width="30" height="30" />
+
+$\color{gray}{\text{Ahem...}}$ <i>Welcome to my profile!</i> <img src="https://raw.githubusercontent.com/AndradeChristopher/AndradeChristopher/refs/heads/main/wave.gif" width="30" height="30" /> 
+
+My name is <b><mark>Christopher</mark></b> and I am a <b>Data Analyst</b> and <b>technology hobbyist</b>. 
+***
+I am in my final year at the University of South Florida <img src="https://raw.githubusercontent.com/AndradeChristopher/AndradeChristopher/refs/heads/main/USF.png" width="20" height="20" /> pursuing a Bachelor's degree in Business Analytics & Information Systems. I am looking forward to sharing some of my previous projects and future endeavors.
 
 <!--
 **AndradeChristopher/AndradeChristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
